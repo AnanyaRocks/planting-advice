@@ -1,0 +1,32 @@
+img{
+    border:solid
+}
+h1{
+    color: blueviolet;
+}
+h2{
+    color: coral;
+}
+marquee{
+    color:#7dc321;
+}
+p{
+    color:rgb(220, 20, 193);
+}
+href{
+    color:#FFFF00;
+}
+border{
+    color:#FFFF00;
+}
+.header{
+background-color:yellow;
+display:flex;
+justify-content: space-between;
+}
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
